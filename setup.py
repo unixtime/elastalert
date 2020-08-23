@@ -42,7 +42,7 @@ setup(
         'prison>=0.1.3',
         'PyStaticConfiguration>=0.10.5',
         'python-dateutil>=2.8.1',
-        'PyYAML>=5.3.1',
+        'PyYAML>=3.11',
         'requests>=2.24.0',
         'stomp.py>=6.1.0',
         'texttable>=1.6.2',
